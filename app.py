@@ -471,7 +471,7 @@ def main():
         print("2. Login")
         print("3. Exit")
 
-        choice = input("Enter choice: ")
+        choice = input("Enter your choice: ")
 
         if choice == "1":
             register()
